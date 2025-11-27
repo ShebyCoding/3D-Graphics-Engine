@@ -1,0 +1,24 @@
+﻿  glad.c
+  main.cpp
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\mesh.h(90,33): warning C4267: argument: Převod z: size_t na: GLsizei, může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru main.cpp)
+  
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\mesh.h(92,34): warning C4267: argument: Převod z: size_t na: GLsizei, může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru main.cpp)
+  
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\model.h(131,35): warning C4267: argument: Převod z: size_t na: _Ty, může dojít ke ztrátě dat.
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\model.h(131,35): warning C4267:         with
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\model.h(131,35): warning C4267:         [
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\model.h(131,35): warning C4267:             _Ty=unsigned int
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\model.h(131,35): warning C4267:         ]
+  (kompilování zdrojového souboru main.cpp)
+  
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\main.cpp(40,11): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\main.cpp(113,16): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\main.cpp(114,16): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\main.cpp(121,15): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\main.cpp(122,15): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\main.cpp(129,28): warning C4244: argument: double se převádí na float; může dojít ke ztrátě dat.
+C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\GraphicEngine\main.cpp(271,22): warning C4244: inicializování: double se převádí na float; může dojít ke ztrátě dat.
+LINK : warning LNK4098: Výchozí knihovna MSVCRT je v konfliktu s použitím jiných knihoven. Použijte /NODEFAULTLIB:library.
+  GraphicEngine.vcxproj -> C:\Users\sebas\Desktop\Bakalarka\OpenGL_Graphic_Engine\bin\Debug\GraphicEngine.exe
